@@ -24,7 +24,8 @@ export default () => {
 
     }
     loadAll();
-  }, []);
+  }, 
+  []);
 
   useEffect(() => {
     const scrollListener = () => {
