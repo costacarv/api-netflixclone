@@ -51,8 +51,7 @@ export default () => {
         ))}
       </section>
       <footer>
-        Feito com <span role="img" aria-label="coração">{" "}
-          core{" "}</span> por min <br/>
+        Feito por Matheus Carvalho <br/>
         Direitos de imagem para Netflix<br/>
         Dados pegos do site themoviedb.org
       </footer>

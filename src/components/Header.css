@@ -19,13 +19,21 @@ header.black {
 .header--logo {
     height: 25px;
 }
-.header--logo img {
+
+.header--logo .image {
     height: 100%;
+    width: 70px;
+    border-radius: 3px;
+    background-image: url('images/logotipodanetflix.jpg');
+    background-size: cover;
 }
 .header--user {
     height: 35px;
 }
-.header--user img {
+.header--user div {
     height: 100%;
     border-radius: 3px;
+    width: 40px;
+    background-image: url('images/84c20033850498.56ba69ac290ea.png');
+    background-size: cover;
 }
